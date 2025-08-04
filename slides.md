@@ -81,8 +81,8 @@ transition: slide-left
 ---
 layout: image-right
 transition: slide-left
-image: /assets/addy.png
-backgroundSize: 400px 300px
+image: /assets/netlify.png
+backgroundSize: 400px 400px
 class: text-left
 ---
 
