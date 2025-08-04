@@ -105,6 +105,7 @@ class: text-left
 - 📦 [Docker](https://www.docker.com/)
 - 💯 [Vitest](https://vitest.dev/)
 - 📝 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- 🎧 [MixPanel](https://mixpanel.com/home/)
 
 <br>
 <hr>
