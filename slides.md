@@ -79,6 +79,15 @@ transition: slide-left
 - Continuous Deployment vs Manual Deployment.
 
 ---
+transition: slide-left
+---
+
+# Processes Involved in Web Deployment
+
+- Testing: to ensure the application works before going live
+   - Unit testing, Integration testing, End-to-End testing, Automated testing in CI/CD pipelines
+
+---
 layout: image-right
 transition: slide-left
 image: /assets/netlify.png
@@ -91,8 +100,11 @@ class: text-left
 🍦 Cool Tips, Trends and Resources:
 - 🚢 [What is Deployment](https://umbraco.com/knowledge-base/deployment/)
 - 🌴 [Growthbook FeatureFlag Tool](https://www.growthbook.io/get-started)
+- 🎭 [Playwright](https://playwright.dev/)
 - 8️⃣ [Kubernetes](https://kubernetes.io/)
 - 📦 [Docker](https://www.docker.com/)
+- 💯 [Vitest](https://vitest.dev/)
+- 📝 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 <br>
 <hr>
