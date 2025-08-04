@@ -84,8 +84,19 @@ transition: slide-left
 
 # Processes Involved in Web Deployment
 
-- Testing: to ensure the application works before going live
+- Testing #1: to ensure the application works locally before going live
    - Unit testing, Integration testing, End-to-End testing, Automated testing in CI/CD pipelines
+- Testing #2: to ensure application still works in staging (just before it gets deployed to prod)
+- Testing #3: Once deployed, test one more time to make sure everything looks/functions correctly
+- Monitoring:
+  - Tools like Sentry can capture runtime errors and log them
+  - DevOps team can monitor real-time server health and performance, as well as rollback if needed
+
+---
+transition: slide-left
+---
+
+# Exercise
 
 ---
 layout: image-right
