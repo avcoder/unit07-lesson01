@@ -52,6 +52,16 @@ transition: slide-left
 - Enterprise deployment: CI/CD pipelines, cloud infrastructure (AWS, GCP, Azure).
 - Open-source applications: community-driven deployment, contributor coordination.
 
+<img src="/assets/cicd.webp" style="height: 300px; margin: 0 auto" />
+
+---
+transition: slide-left
+---
+
+# Types of Deployment Strategies
+
+<img src="/assets/deploy1.webp" style="height: 470px; margin: 0 auto">
+
 ---
 transition: slide-left
 ---
@@ -80,6 +90,9 @@ class: text-left
 
 🍦 Cool Tips, Trends and Resources:
 - 🚢 [What is Deployment](https://umbraco.com/knowledge-base/deployment/)
+- 🌴 [Growthbook FeatureFlag Tool](https://www.growthbook.io/get-started)
+- 8️⃣ [Kubernetes](https://kubernetes.io/)
+- 📦 [Docker](https://www.docker.com/)
 
 <br>
 <hr>
