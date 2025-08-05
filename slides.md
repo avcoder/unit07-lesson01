@@ -97,7 +97,16 @@ transition: slide-left
 ---
 
 # Exercise
-Show a simple GitHub Actions CI/CD workflow and a live error reported in Sentry.
+
+- Recap: Deploy React Frontend to Netlify which automatically uses CI/CD
+- Find out how to deploy to one of the following and document the process in markdown .md format, and publish it on https://hashnode.com/ for all to see
+  - https://vercel.com
+  - https://render.com
+  - https://pages.cloudflare.com
+  - https://aws.amazon.com/amplify/
+  - https://aws.amazon.com/s3/
+  - https://www.digitalocean.com/
+  - https://www.heroku.com/
 
 ---
 layout: image-right
