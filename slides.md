@@ -86,6 +86,7 @@ transition: slide-left
 - Testing #1: to ensure the application works locally before going live
    - Unit testing, Integration testing, End-to-End testing, Automated testing in CI/CD pipelines
 - Testing #2: to ensure application still works in staging (just before it gets deployed to prod)
+  - Watch me [test on staging](https://www.loom.com/share/d3b4d1c3c7f64ffebeee0a6a9dfc5cc7?sid=2329b9da-90bb-4901-a41d-4d348179e26f) for my former workplace 
 - Testing #3: Once deployed, test one more time to make sure everything looks/functions correctly
 - Monitoring:
   - Tools like Sentry can capture runtime errors and log them
