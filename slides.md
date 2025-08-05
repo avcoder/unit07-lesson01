@@ -21,8 +21,7 @@ Deployment: Unit 07 - Lesson 02
 
 - [ ] Various Deployment Strategies
 - [ ] Microservices vs Monolithic Architectures
-- [ ] Preparing to Deploy
-- [ ] Deployment via FTP
+- [ ] Deployment Examples
 
 <div class="abs-br m-6 text-xl">
   <a href="https://github.com/slidevjs/slidev" target="_blank" class="slidev-icon-btn">
@@ -97,6 +96,7 @@ transition: slide-left
 ---
 
 # Exercise
+Show a simple GitHub Actions CI/CD workflow and a live error reported in Sentry.
 
 ---
 layout: image-right
