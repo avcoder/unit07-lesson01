@@ -17,7 +17,7 @@ mdc: true
 ---
 
 # Intro to Deployment
-Deployment: Unit 07 - Lesson 02
+Deployment: Unit 07 - Lesson 01
 
 - [ ] Various Deployment Strategies
 - [ ] Microservices vs Monolithic Architectures
