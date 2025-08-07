@@ -96,17 +96,8 @@ transition: slide-left
 transition: slide-left
 ---
 
-# Exercise
+# Architecture
 
-- Recap: Deploy React Frontend to Netlify which automatically uses CI/CD
-- Find out how to deploy to one of the following and document the process in markdown .md format, and publish it on https://hashnode.com/ for all to see
-  - https://vercel.com
-  - https://render.com
-  - https://pages.cloudflare.com
-  - https://aws.amazon.com/amplify/
-  - https://aws.amazon.com/s3/
-  - https://www.digitalocean.com/
-  - https://www.heroku.com/
 
 ---
 layout: image-right
@@ -134,6 +125,23 @@ class: text-left
 
 - 🧪 [Enter anonymous lab questions](https://docs.google.com/forms/d/e/1FAIpQLSevvGARdHQikso-uLqFCO481MABKE5HofuSrlzEPMNQ2ZLykw/viewform?usp=dialog)
 - ℹ️ [Course feedback survey](https://circuitstream.typeform.com/to/ZoyYk7px#course_id=SoftwareAN&instructor=9514)
+
+---
+transition: slide-left
+---
+
+# Exercise
+
+- Recap: Deploy React Frontend to Netlify which automatically uses CI/CD
+- Find out how to deploy to one of the following and document the process in markdown .md format, and publish it on https://hashnode.com/ for all to see
+  - https://vercel.com
+  - https://render.com
+  - https://pages.cloudflare.com
+  - https://aws.amazon.com/amplify/
+  - https://aws.amazon.com/s3/
+  - https://www.digitalocean.com/
+  - https://www.heroku.com/
+
 
 ---
 transition: slide-left
