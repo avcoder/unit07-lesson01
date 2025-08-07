@@ -105,6 +105,16 @@ transition: slide-left
 - Exercise: Draw a diagram on excalidraw showing how the app is architected
 - How can your Express backend and React Frontend be deployed in similar fashion?
 
+---
+transition: slide-left
+---
+
+# Architecture: Monolithic vs Microservice
+
+- Monolithic App: One codebase that contains everything: frontend, backend, and logic together.
+  - ex: The Note-taking app you built
+- Microservices: Different services doing different tasks, each deployable separately.
+  - ex: One service for user auth, another for task management, another for notifications.
 
 ---
 layout: image-right
