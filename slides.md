@@ -216,16 +216,9 @@ transition: slide-left
 
 # Exercise
 
-- Recap: Deploy React Frontend to Netlify which automatically uses CI/CD
-- Find out how to deploy to one of the following and document the process in markdown .md format, and publish it on https://hashnode.com/ for all to see
-  - https://vercel.com
-  - https://render.com
-  - https://pages.cloudflare.com
-  - https://aws.amazon.com/amplify/
-  - https://aws.amazon.com/s3/
-  - https://www.digitalocean.com/
-  - https://www.heroku.com/
-
+- Deploy https://github.com/avcoder/deploy-front to Netlify or other
+- Deploy https://github.com/avcoder/deploy-back to Render or other
+- What issues come up when trying to make it work.  How did you resolve it?
 
 ---
 transition: slide-left
