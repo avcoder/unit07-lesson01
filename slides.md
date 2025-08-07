@@ -96,6 +96,17 @@ transition: slide-left
 transition: slide-left
 ---
 
+# Exercise
+5 min
+
+1. Use [excalidraw](https://excalidraw.com/) to draw a simple diagram of the architecture of our Express/MongoDB/EJS app
+2. Now draw a 2nd diagram of the architecture of an Express (JSON API)/MongoDB/React app
+3. Once done, click "Share" > Export to Link > Copy link, then paste it in chat for all to see
+
+---
+transition: slide-left
+---
+
 # Architecture
 
 - Exercise: Draw a diagram on excalidraw showing how your local Express/React app is architected
