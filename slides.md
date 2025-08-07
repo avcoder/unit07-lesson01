@@ -98,6 +98,8 @@ transition: slide-left
 
 # Architecture
 
+- Examine the Fetch/XHR requests on Network tab for app.agencyanalytics.com - where does it go?
+  - How can your Express backend and React Frontend be deployed in similar fashion?
 
 ---
 layout: image-right
