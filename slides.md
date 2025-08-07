@@ -218,7 +218,7 @@ transition: slide-left
 
 - Deploy https://github.com/avcoder/deploy-front to Netlify or other
 - Deploy https://github.com/avcoder/deploy-back to Render or other
-- What issues come up when trying to make it work.  How did you resolve it?
+- What issues come up when trying to make it work?  How did you resolve it?
 
 ---
 transition: slide-left
