@@ -229,5 +229,4 @@ transition: slide-left
 
 # Homework
 
-- Work on your "Algorithm and Structural Foundations" assignment due July 20 midnight EST
-   - can submit before due date if you wish
+- Work on your "Weather Forecasting App" assignment due Aug 17 midnight EST
