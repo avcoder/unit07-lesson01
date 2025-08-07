@@ -169,6 +169,21 @@ transition: slide-left
    - individual hosting environments
 
 ---
+transition: slide-left
+---
+
+# Deployment Foundations 
+
+| **Topic**                        | **Subtopics**                                                                              |
+| -------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Version Control Systems**      | - Git overview<br>- Why version control matters                      |
+| **Using Branches**               | - Naming conventions (`feature/`, `bugfix/`, etc.)<br>- Merging & pull requests            |
+| **Local vs. Remote Development** | - Local setup vs. staging/production environments<br>- Tools like VS Code, Docker, etc.    |
+| **Scheduling & Timing**          | - Deploying during low-traffic hours (not Fridays)<br>- CI/CD pipeline triggers (GitHub Actions)         |
+| **Environment Variables**        | - `.env` files<br>- Keeping secrets out of source code|
+
+
+---
 layout: image-right
 transition: slide-left
 image: /assets/netlify.png
