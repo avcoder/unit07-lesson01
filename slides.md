@@ -109,8 +109,7 @@ transition: slide-left
 
 # Architecture
 
-- Exercise: Draw a diagram on excalidraw showing how your local Express/React app is architected
-  - Right now, all of this runs on your computer, but how do we make this available to the world?
+- Right now, all of this runs on your computer, but how do we make this available to the world?
   - Each piece (frontend, backend, DB) needs to live somewhere online (ex: Netlify, Render, MongoDB Atlas)
 - Examine the Fetch/XHR requests on Network tab for app.agencyanalytics.com - where does it go?
 - Exercise: Draw a diagram on excalidraw showing how the app is architected
