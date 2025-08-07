@@ -134,6 +134,19 @@ transition: slide-left
 - back-end Node/Express JSON APIs stored on another Github repo, perhaps hosted on render
 - Mongo DB hosted on cloud (Atlas) 
 
+---
+transition: slide-left
+---
+
+# Architecture: Modular or Decoupled
+
+- Previous slide described what might be called Decoupled / Modular Architecture
+- Since frontend and backend are separated into different services and repositories, this is already one major step away from a monolith
+- This modularity allows independent deployment and scaling of frontend / backend
+- It also borrows some microservices principles:
+   - independent deployment pipelines
+   - separation of concerns
+   - individual hosting environments
 
 ---
 layout: image-right
