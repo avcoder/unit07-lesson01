@@ -134,6 +134,16 @@ transition: slide-left
 - back-end Node/Express JSON APIs stored on another Github repo, perhaps hosted on render
 - Mongo DB hosted on cloud (Atlas) 
 
+| Feature    | Architecture   | 
+| ---------- | ---------- | 
+| Frontend & backend separated?   | ✅ Yes     | 
+| Independent deployment? | ✅ Yes | 
+| Multiple microservices?    | ❌ No (single backend)     | 
+| Shared DB?  | ✅ MongoDB Atlas | 
+| Monolithic? | ❌ No |
+| Microservices? | ⚠️ Not quite |
+
+
 ---
 transition: slide-left
 ---
