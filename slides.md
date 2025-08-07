@@ -216,9 +216,12 @@ transition: slide-left
 
 # Exercise
 
-- Deploy https://github.com/avcoder/deploy-front to Netlify or other
-- Deploy https://github.com/avcoder/deploy-back to Render or other
-- What issues come up when trying to make it work?  How did you resolve it?
+1. Deploy basic Express backend and React frontend (no db)
+  - Deploy https://github.com/avcoder/deploy-front to Netlify 
+  - Deploy https://github.com/avcoder/deploy-back to Render 
+  - What issues come up when trying to make it work?  How did you resolve it?
+2. Deploy above to different platforms (ex: Vercel and Heroku or Digital Ocean?)
+
 
 ---
 transition: slide-left
