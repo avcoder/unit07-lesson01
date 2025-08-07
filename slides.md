@@ -109,12 +109,31 @@ transition: slide-left
 transition: slide-left
 ---
 
-# Architecture: Monolithic vs Microservice
+# Architecture: Monolithic vs Microservice vs. Other
 
 - Monolithic App: One codebase that contains everything: frontend, backend, and logic together.
   - ex: The Note-taking app you built
 - Microservices: Different services doing different tasks, each deployable separately.
   - ex: One service for user auth, another for task management, another for notifications.
+- Other: Somewhere in between where it's modular or decoupled
+
+| Feature    | Monolith   | Microservices              |
+| ---------- | ---------- | -------------------------- |
+| Codebase   | Single     | Multiple                   |
+| Deployment | One deploy | Many deploys               |
+| Scaling    | Harder     | Easier (scale per service) |
+| Good for   | Small apps | Large apps with teams      |
+
+---
+transition: slide-left
+---
+
+# What kind of architecture might the following be?
+
+- front-end React code stored in one Github repo, perhaps hosted on Netlify/Vercel
+- back-end Node/Express JSON APIs stored on another Github repo, perhaps hosted on render
+- Mongo DB hosted on cloud (Atlas) 
+
 
 ---
 layout: image-right
